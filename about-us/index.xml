@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About Us on Edge Engineering</title>
+    <link>/about-us/</link>
+    <description>Recent content in About Us on Edge Engineering</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="/about-us/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Our Team</title>
+      <link>/about-us/team/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/about-us/team/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/images/about-us/workshop1_crop.jpg&#34; alt=&#34;The Edge Team&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Edge Engineering takes pride in employing highly skilled and qualified staff who excel in high-pressure environments while maintaining a calm and professional approach. We are privileged to have team members who not only elevate our technical expertise but also embody our family-oriented business values.&lt;/p&gt;&#xA;&lt;p&gt;With decades of combined experience, our team brings a wide range of specialised skills, including:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Extensive mechanical expertise in rebuilds and repairs&lt;/li&gt;&#xA;&lt;li&gt;Spindle rebuilding&lt;/li&gt;&#xA;&lt;li&gt;Precision hand scraping, blueing, and high-accuracy craftsmanship&lt;/li&gt;&#xA;&lt;li&gt;Mechanical design and drafting&lt;/li&gt;&#xA;&lt;li&gt;Hydraulic and pneumatic system design and installation&lt;/li&gt;&#xA;&lt;li&gt;Machine tool alignment&lt;/li&gt;&#xA;&lt;li&gt;Electronics expertise with leading CNC brands such as Siemens, Fagor, Heidenhain, and Fanuc controllers&lt;/li&gt;&#xA;&lt;li&gt;Transport, packaging, and logistics of machine tools&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Our team’s diverse capabilities ensure we deliver exceptional service across all areas of machine tool maintenance and engineering.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Our Workshop</title>
+      <link>/about-us/workshop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/about-us/workshop/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/images/about-us/lift4_crop1.jpg&#34; alt=&#34;Workshop&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Our Kenwick workshop is a state-of-the-art facility designed to handle a wide range of machine repairs, rebuilds, and servicing needs.&lt;/p&gt;&#xA;&lt;p&gt;Spanning 1,000 sqm with a 40-tonne overhead crane capacity, it features an additional 1,000 sqm under-crane repair area with a 25-tonne crane and a 1,300 sqm outdoor hardstand area.&lt;/p&gt;&#xA;&lt;p&gt;The workshop is fully equipped with advanced machinery for repairs and modifications, supported by an integrated office space for 10+ staff. Combining cutting-edge tools with the expertise of our skilled team, the Kenwick workshop ensures high-quality results for every project.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
