@@ -1,3 +1,0 @@
-<a href="{{ if .external }}{{ .url | safeURL }}{{ else }}{{ .url | relURL | safeURL }}{{ end }}" {{ if .external }}target="_blank" rel="noopener" {{ end }} class="button {{ if .theme }}button-{{ .theme }}{{ end }}">
-  {{ .text }}
-</a>

@@ -1,1 +1,0 @@
-// This file is only included in the homepage `layouts/_index.html`

@@ -1,1 +1,0 @@
-// Any javascript added here will be executed on every page.
