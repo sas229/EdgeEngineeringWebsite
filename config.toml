@@ -1,0 +1,93 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Edge Engineering"
+theme = "hugo-paradigm"
+enableGitInfo = false
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsUseClasses = true
+metaDataFormat = "yaml"
+pagination.pagerSize = 6
+
+[permalinks]
+post = "/:year/:month/:title/"
+
+[taxonomies]
+tag = "tags"
+category = "categories"
+work = "works"
+author = "authors"
+
+# Main Menu
+[[menu.main]]
+name = "Our Services"
+url = "/our-services"
+weight = 1
+identifier = 'dropdown'
+[[menu.main]]
+name = "Emergency Repairs"
+url = "/services/emergency-repairs"
+parent = "dropdown"
+weight = 2
+[[menu.main]]
+name = "Servicing"
+url = "/services/servicing"
+parent = "dropdown"
+weight = 3
+[[menu.main]]
+name = "Remote Monitoring"
+url = "/services/remote-monitoring"
+parent = "dropdown"
+weight = 4
+[[menu.main]]
+name = "Other Services"
+url = "/services/other-services"
+parent = "dropdown"
+weight = 5
+
+
+[[menu.main]]
+name = "Personnel"
+url = "/personnel/"
+weight = 4
+
+[[menu.main]]
+name = "Monitoring"
+url = "https://www.google.co.uk/"
+weight = 5
+
+# Footer Menu Primary
+[[menu.footer_primary]]
+name = "On-Site Repairs"
+url = "/services/emergency-repairs"
+weight = 2
+[[menu.footer_primary]]
+name = "Servicing"
+url = "/services/servicing"
+weight = 2
+[[menu.footer_primary]]
+name = "Remote Monitoring"
+url = "/services/remote-monitoring"
+weight = 3
+[[menu.footer_primary]]
+name = "Other Services"
+url = "/services/other-services"
+weight = 4
+
+# Footer Menu Secondary
+[[menu.footer_secondary]]
+name = "Home"
+url = "/"
+weight = 1
+[[menu.footer_secondary]]
+name = "Personnel"
+url = "/personnel/"
+weight = 2
+[[menu.footer_secondary]]
+name = "Privacy Policy"
+url = "/privacy/"
+weight = 3
+[[menu.footer_secondary]]
+name = "Contact Us"
+url = "/contact-us/"
+weight = 4

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Edge Engineering</title>
+    <link>//localhost:1313/pages/</link>
+    <description>Recent content in Pages on Edge Engineering</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact Us</title>
+      <link>//localhost:1313/contact-us/</link>
+      <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/contact-us/</guid>
+      <description>&lt;h3 id=&#34;contact-us&#34;&gt;Contact Us&lt;/h3&gt;&#xA;&lt;p&gt;You can find our offices and workshop at:&lt;/p&gt;&#xA;&lt;p&gt;9 Freight Road, Kenwick, Western Australia&lt;/p&gt;&#xA;&lt;p&gt;Telephone: 0438 994 774&lt;/p&gt;&#xA;&lt;p&gt;E-mail: &lt;a href=&#34;mailto:jim@edgeeng.com.au&#34;&gt;jim@edgeeng.com.au&lt;/a&gt;&lt;/p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;div class=&#34;block&#34;&gt;&#xA;    &lt;div class=&#34;google-map&#34;&gt;&#xA;        &lt;iframe width=&#34;100%&#34; height=&#34;600px&#34; frameBorder=&#34;0&#34; src=&#34;https://umap.openstreetmap.fr/en/map/untitled-map_1119662?scaleControl=true&amp;miniMap=true&amp;scrollWheelZoom=true&amp;zoomControl=true&amp;allowEdit=false&amp;moreControl=false&amp;searchControl=true&amp;tilelayersControl=null&amp;embedControl=false&amp;datalayersControl=null&amp;onLoadPanel=none&amp;captionBar=false&amp;fullscreenControl=null#15/-32.009562/115.980585&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Our Services</title>
+      <link>//localhost:1313/our-services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/our-services/</guid>
+      <description>&lt;h2 id=&#34;our-services&#34;&gt;Our Services&lt;/h2&gt;&#xA;&lt;p&gt;Founded on decades of combined experience, the services that Edge Engineering provides focus on the repair, servicing and remote monitoring of heavy machine tools.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Personnel</title>
+      <link>//localhost:1313/personnel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/personnel/</guid>
+      <description>&lt;h2 id=&#34;personnel&#34;&gt;Personnel&lt;/h2&gt;&#xA;&lt;p&gt;Edge Engineering pride themselves on employing highly skilled and qualified staff that thrive in high pressure environments, whilst keeping a calm head. We look for people that not only build our technical skills but that align with our Family orientated business values.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

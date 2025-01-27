@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on Edge Engineering</title>
+    <link>//localhost:1313/services/</link>
+    <description>Recent content in Services on Edge Engineering</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Emergency Repairs</title>
+      <link>//localhost:1313/services/emergency-repairs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/services/emergency-repairs/</guid>
+      <description>&lt;p&gt;We are available 24/7 to perform emergency field repairs. Edge Engineering has four fully equipped vehicles ready to attend your mechanical breakdowns at a moment’s notice. Understanding the critical nature of machinery downtime we have adapted to be as responsive and reliable as possible.&lt;/p&gt;&#xA;&lt;p&gt;If you require a more in-depth planned overhaul and rebuild, we have the capacity to perform these tasks on-site or in-house at our Embelton workshop. We have extensive knowledge with all mechanical components that a machine may have form spindles to apron boxes. Other overhaul and rebuild services offered include:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Servicing</title>
+      <link>//localhost:1313/services/servicing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/services/servicing/</guid>
+      <description>&lt;h2 id=&#34;alignment&#34;&gt;Alignment&lt;/h2&gt;&#xA;&lt;p&gt;Is your tool turret out of center, your floor borer not running parallel or square? We can help! We have extensive knowledge in machine tool alignments and calibrations. Edge Engineering offers a complete alignment service for your machinery. We are equipped with the following equipment:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Granite square&lt;/li&gt;&#xA;&lt;li&gt;Cylindrical square&lt;/li&gt;&#xA;&lt;li&gt;Box levels (0.02mm/m Resolution)&lt;/li&gt;&#xA;&lt;li&gt;Ali sense Level (Digital level)&lt;/li&gt;&#xA;&lt;li&gt;Precision Parallel up to 2.4m&lt;/li&gt;&#xA;&lt;li&gt;Drawbar force check for BT40, BT 50 and HSK 63 machine taper&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;ballscrew-renewal&#34;&gt;Ballscrew Renewal&lt;/h2&gt;&#xA;&lt;p&gt;Edge Engineering can repair and service your existing ball screw if your machine has excessive backlash or repeatability issues, we can also source new and replacement ballscrews offering all the design and machining services to go with your new ballscrew.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Remote Monitoring</title>
+      <link>//localhost:1313/services/remote-monitoring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/services/remote-monitoring/</guid>
+      <description>&lt;p&gt;Details including of the remote monitoring services to go here&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Other Services</title>
+      <link>//localhost:1313/services/other-services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/services/other-services/</guid>
+      <description>&lt;p&gt;Edge Engineering offer a range of other services as outlined below:&lt;/p&gt;&#xA;&lt;h2 id=&#34;machine-shop&#34;&gt;Machine Shop&lt;/h2&gt;&#xA;&lt;p&gt;Edge Engineering&amp;rsquo;s main workshop is based in Perth, Western Australia. The workshop is equipped with machinery and tooling to undertake all task required to get your machinery up and running. We have the following major pieces of equipment at our disposal:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Dean Smith and Grace lathe (Dia 300mm Swing x 1200mm Between Centers)&lt;/li&gt;&#xA;&lt;li&gt;Jones and Shipman Universal Grinder (Dia 250 x 700 Between Centers)&lt;/li&gt;&#xA;&lt;li&gt;Induma Milling Turret Mill (650mm x 370mm Table with 400mm Under Quill)&lt;/li&gt;&#xA;&lt;li&gt;Elliott Surface Grinder (550mm x 250mm Travel)&lt;/li&gt;&#xA;&lt;li&gt;Hercus Slotter&lt;/li&gt;&#xA;&lt;li&gt;Makino Tool and Cutter Grinder&lt;/li&gt;&#xA;&lt;li&gt;Welding and Fabrication&lt;/li&gt;&#xA;&lt;li&gt;3 Tonne Gantry Crane&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;machinery-installation-relocation-and-commissioning&#34;&gt;Machinery Installation, Relocation and Commissioning&lt;/h3&gt;&#xA;&lt;p&gt;Edge Engineering can install any size machine in any location, we pride ourselves on using the latest technology and skills when setting machines in position and hold downs for leveling. We have developed our own unique hold-down system that can be cast into any existing concrete slab.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
