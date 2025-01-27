@@ -1,0 +1,13 @@
+{
+	"version": 3,
+	"file": "theme.css",
+	"sourceRoot": "/home/sam/Downloads/EdgeEngineeringWebsite(1)",
+	"sources": [
+		"themes/hugo-paradigm/assets/scss/theme.scss"
+	],
+	"sourcesContent": [
+		"\n\n\n\n  :root {\n    \n      --color-base: #ffffff;\n    \n      --color-base-offset: #f2f2f2;\n    \n      --color-base-text: #202020;\n    \n      --color-base-text-offset: #413f3f;\n    \n      --color-primary: #273648;\n    \n      --color-primary-offset: #371fda;\n    \n      --color-primary-text: #ffffff;\n    \n      --color-primary-text-offset: #e8ffff;\n    \n    \n      --font-base: Lato;\n    \n      --font-heading: Source Sans Pro;\n    \n  }\n\n\nhtml[data-mode='dark'] {\n  \n    --color-base: #121212;\n  \n    --color-base-offset: #1e1e1e;\n  \n    --color-base-text: #ffffff;\n  \n    --color-base-text-offset: #bfbfbf;\n  \n    --color-primary: #b91134;\n  \n    --color-primary-offset: #521ec5;\n  \n    --color-primary-text: #ffffff;\n  \n    --color-primary-text-offset: #e8ffff;\n  \n}"
+	],
+	"names": [],
+	"mappings": "CAIG,AAAD,IAAK,CAAC;EAEF,YAAY,CAAA,QAAC;EAEb,mBAAmB,CAAA,QAAC;EAEpB,iBAAiB,CAAA,QAAC;EAElB,wBAAwB,CAAA,QAAC;EAEzB,eAAe,CAAA,QAAC;EAEhB,sBAAsB,CAAA,QAAC;EAEvB,oBAAoB,CAAA,QAAC;EAErB,2BAA2B,CAAA,QAAC;EAG5B,WAAW,CAAA,KAAC;EAEZ,cAAc,CAAA,gBAAC,GAElB;;AAGH,AAAA,IAAI,CAAA,AAAA,SAAC,CAAU,MAAM,AAAhB,EAAkB;EAEnB,YAAY,CAAA,QAAC;EAEb,mBAAmB,CAAA,QAAC;EAEpB,iBAAiB,CAAA,QAAC;EAElB,wBAAwB,CAAA,QAAC;EAEzB,eAAe,CAAA,QAAC;EAEhB,sBAAsB,CAAA,QAAC;EAEvB,oBAAoB,CAAA,QAAC;EAErB,2BAA2B,CAAA,QAAC,GAE/B"
+}
