@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Edge Engineering</title>
+    <link>//localhost:42527/pages/</link>
+    <description>Recent content in Pages on Edge Engineering</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:42527/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact Us</title>
+      <link>//localhost:42527/contact-us/</link>
+      <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:42527/contact-us/</guid>
+      <description>&lt;h3 id=&#34;contact-us&#34;&gt;Contact Us&lt;/h3&gt;&#xA;&lt;p&gt;Our offices and workshop are conveniently located, providing easy access for all your machine servicing and engineering needs.&lt;/p&gt;&#xA;&lt;p&gt;Feel free to visit us or get in touch to learn more about our services.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;Edge Engineering&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;9 Freight Road, Kenwick, WA6107, Australia&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Telephone:&lt;/strong&gt; 0438 994 774&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;E-mail:&lt;/strong&gt; &lt;a href=&#34;mailto:jim@edgeeng.com.au&#34;&gt;jim@edgeeng.com.au&lt;/a&gt;&lt;/p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;div class=&#34;block&#34;&gt;&#xA;    &lt;div class=&#34;google-map&#34;&gt;&#xA;        &lt;iframe width=&#34;100%&#34; height=&#34;600px&#34; frameBorder=&#34;0&#34; src=&#34;https://umap.openstreetmap.fr/en/map/untitled-map_1119662?scaleControl=true&amp;miniMap=true&amp;scrollWheelZoom=true&amp;zoomControl=true&amp;allowEdit=false&amp;moreControl=false&amp;searchControl=true&amp;tilelayersControl=null&amp;embedControl=false&amp;datalayersControl=null&amp;onLoadPanel=none&amp;captionBar=false&amp;fullscreenControl=null#15/-32.009562/115.980585&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Learn More</title>
+      <link>//localhost:42527/landing/</link>
+      <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:42527/landing/</guid>
+      <description>&lt;h1 id=&#34;who-we-are&#34;&gt;Who We Are&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:42527/images/pages/landing_crop.jpg&#34; alt=&#34;The Edge Team&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Edge Engineering recognises that machinery downtime is costly, which is why we respond quickly and proactively to breakdowns. Our experienced team provides efficient on-site repairs with precision, using the tools and expertise needed to minimise operational disruption. For more complex issues, our Kenwick workshop delivers complete overhauls, supported by strong supplier partnerships to ensure the rapid sourcing of critical parts. Whether your machine tool requires minor repairs or significant restoration, we are committed to restoring full functionality promptly and reliably.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About Us</title>
+      <link>//localhost:42527/about-us/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:42527/about-us/</guid>
+      <description>&lt;h2 id=&#34;about-us&#34;&gt;About Us&lt;/h2&gt;&#xA;&lt;p&gt;Founded with the vision of providing unmatched customer service and support to Australia’s manufacturing industry, Edge Engineering has grown to become a trusted name. Our team members bring diverse experience and skills, from hands-on service and repair to sales and application expertise. Our commitment to old-fashioned values like honesty, reliability, and a personal approach defines our success. Every day, we strive to exceed customer expectations and adapt to the evolving needs of the manufacturing industry. Our goal is to provide unparalleled quality and service, building lasting partnerships with our clients for a successful future together.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Asset</title>
+      <link>//localhost:42527/asset/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:42527/asset/</guid>
+      <description>&lt;h2 id=&#34;our-asset-management-services&#34;&gt;Our Asset Management Services&lt;/h2&gt;&#xA;&lt;p&gt;Edge Engineering ensures efficient, reliable machinery operation with tailored maintenance solutions. Using advanced sensors, QR-tagged machines, and the EDGE operator app, we streamline inspections, servicing, and real-time monitoring to address issues proactively, minimize downtime, and optimize performance.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sales</title>
+      <link>//localhost:42527/sales/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:42527/sales/</guid>
+      <description>&lt;h2 id=&#34;sales&#34;&gt;Sales&lt;/h2&gt;&#xA;&lt;p&gt;Edge Engineering provides high-quality, tested machinery at affordable prices, backed by a proven track record in the Perth market. As the official distributor for leading Taiwanese and Korean manufacturers, we offer a comprehensive range of CNC lathes, vertical turning lathes, and 5-axis machining centres, including vertical, universal bed-type, and double-column models.&lt;/p&gt;&#xA;&lt;p&gt;Our service goes beyond sales. Edge Engineering can organise transport, installation, and commissioning, ensuring a seamless setup for your new machinery. Throughout the machine’s lifetime, you benefit from guaranteed service and priority support. Thanks to our close relationships with manufacturers, we ensure the fastest possible sourcing of parts, minimising downtime.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Services</title>
+      <link>//localhost:42527/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:42527/services/</guid>
+      <description>&lt;h2 id=&#34;our-machinery-services&#34;&gt;Our Machinery Services&lt;/h2&gt;&#xA;&lt;p&gt;Founded on decades of combined experience, Edge Engineering ensures efficient machinery support with fast breakdown repairs, precision rebuilds, and advanced retrofits to enhance performance. They also offer seamless machine relocation and commissioning, minimising downtime and maximising operational reliability.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

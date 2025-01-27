@@ -1,0 +1,147 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Edge Engineering"
+theme = "hugo-paradigm"
+enableGitInfo = false
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsUseClasses = true
+metaDataFormat = "yaml"
+pagination.pagerSize = 6
+
+[permalinks]
+post = "/:year/:month/:title/"
+
+[taxonomies]
+tag = "tags"
+category = "categories"
+work = "works"
+author = "authors"
+
+# Main Menu
+[[menu.main]]
+name = "Machine Services"
+url = "/services"
+weight = 1
+identifier = 'services-dropdown'
+[[menu.main]]
+name = "Relocation and Commissioning"
+url = "/services/relocation"
+parent = "services-dropdown"
+weight = 2
+[[menu.main]]
+name = "Breakdown Repairs"
+url = "/services/breakdown"
+parent = "services-dropdown"
+weight = 3
+[[menu.main]]
+name = "Rebuilds"
+url = "/services/rebuilds"
+parent = "services-dropdown"
+weight = 4
+[[menu.main]]
+name = "Retrofits"
+url = "/services/retrofits"
+parent = "services-dropdown"
+weight = 5
+
+# Main Menu
+[[menu.main]]
+name = "Asset Management"
+url = "/asset"
+weight = 6
+identifier = 'asset-dropdown'
+[[menu.main]]
+name = "Preventative Maintenance"
+url = "/asset/pm"
+parent = "asset-dropdown"
+weight = 7
+[[menu.main]]
+name = "Machine Inspection and Service"
+url = "/asset/inspect-service"
+parent = "asset-dropdown"
+weight = 8
+[[menu.main]]
+name = "Remote Monitoring"
+url = "/asset/remote"
+parent = "asset-dropdown"
+weight = 9
+[[menu.main]]
+name = "Operator App"
+url = "/asset/operator"
+parent = "asset-dropdown"
+weight = 10
+
+
+# Main Menu
+[[menu.main]]
+name = "Sales"
+url = "/sales"
+weight = 11
+identifier = 'sales-dropdown'
+[[menu.main]]
+name = "Radar"
+url = "/Sales/radar"
+parent = "sales-dropdown"
+weight = 12
+[[menu.main]]
+name = "APEC"
+url = "/Sales/apec"
+parent = "sales-dropdown"
+weight = 13
+[[menu.main]]
+name = "Sun Firm Machinery"
+url = "/Sales/sunfirm"
+parent = "sales-dropdown"
+weight = 14
+[[menu.main]]
+name = "Eumach"
+url = "/Sales/eumach"
+parent = "sales-dropdown"
+weight = 15
+
+[[menu.main]]
+name = "About Us"
+url = "/about-us/"
+weight = 16
+
+[[menu.main]]
+name = "Contact Us"
+url = "/contact-us/"
+weight = 17
+
+# Footer Menu Primary
+[[menu.footer_primary]]
+name = "Machine Services"
+url = "/services"
+weight = 1
+identifier = 'services-dropdown'
+[[menu.footer_primary]]
+name = "Asset Management"
+url = "/asset"
+weight = 2
+[[menu.footer_primary]]
+name = "Sales"
+url = "/sales"
+weight = 3
+
+# Footer Menu Secondary
+[[menu.footer_secondary]]
+name = "Home"
+url = "/"
+weight = 1
+[[menu.footer_secondary]]
+name = "About Us"
+url = "/about-us/"
+weight = 3
+[[menu.footer_secondary]]
+name = "Contact Us"
+url = "/contact-us/"
+weight = 4
+[[menu.footer_secondary]]
+name = "Privacy Policy"
+url = "/privacy/"
+weight = 5
+
+
+
